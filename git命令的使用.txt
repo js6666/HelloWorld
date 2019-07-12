@@ -15,3 +15,4 @@ git config --global core.quotepath false 在使用git status的时候出现中�
 
 新文件第一次
 我再页面进行添加的不希望删除
+本地文件提交不希望删除
