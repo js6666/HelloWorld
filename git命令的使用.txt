@@ -12,3 +12,4 @@ Git bash下中文乱码 —— 解决方案
 1、右键 选择options -> Text 将Character set设置为 UTF-8
 
 git config --global core.quotepath false 在使用git status的时候出现中文乱码解决方案
+
