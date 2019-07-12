@@ -13,4 +13,3 @@ Git bash下中文乱码 —— 解决方案
 
 git config --global core.quotepath false 在使用git status的时候出现中文乱码解决方案
 
-新文件第一次修改
