@@ -18,6 +18,4 @@ git pull
 git stash pop
 git diff -w + 文件名
 
-新文件第二次
-本地文件提交不希望删除
-通过页面进行代码提交
+
