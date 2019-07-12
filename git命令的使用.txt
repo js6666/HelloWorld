@@ -1,0 +1,14 @@
+git config --list 查看git的配置 后面可以具体添加 global local system
+
+git config [-local] [-global] [-system] user.name'your name' 配置用户名
+
+git config [-local] [-global] [-system] user.email'your email' 配置邮箱
+
+ll 查看当前文件
+
+git init 文件名			创建新的仓库
+
+Git bash下中文乱码 —— 解决方案
+1、右键 选择options -> Text 将Character set设置为 UTF-8
+
+git config --global core.quotepath false 在使用git status的时候出现中文乱码解决方案
