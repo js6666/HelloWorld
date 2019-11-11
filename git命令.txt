@@ -18,4 +18,10 @@ git pull
 git stash pop
 git diff -w + 文件名
 
+git add -A 就是将本地修改的文件全部提交到暂存区中
+
+git checkout 导出
+
+
+
 
